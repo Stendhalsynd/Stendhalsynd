@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Stendhalsynd&show_icons=true&hide_border=true)](https://github.com/Stendhalsynd)
+[![Jihun's github stats](https://github-readme-stats.vercel.app/api?username=Stendhalsynd&show_icons=true&hide_border=true&theme=noctis_minimus)](https://github.com/Stendhalsynd)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stendhalsynd&layout=compact)](https://github.com/Stendhalsynd)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
