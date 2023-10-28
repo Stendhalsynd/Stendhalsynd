@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
 # Archiving
-[✏️ velog](https://velog.io/@qmflf556)
+[✏️ yunes 의 기술블로그](https://velog.io/@qmflf556)
