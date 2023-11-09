@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 
 # Archiving
 [✏️ yunes 의 기술블로그](https://velog.io/@qmflf556)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qmflf556)](https://velog.io/@qmflf556)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
