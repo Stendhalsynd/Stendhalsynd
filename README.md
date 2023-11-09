@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Jihun's github stats](https://github-readme-stats.vercel.app/api?username=Stendhalsynd&show_icons=true&hide_border=true&theme=noctis_minimus)](https://github.com/Stendhalsynd)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stendhalsynd&layout=compact)](https://github.com/Stendhalsynd)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bruderlich)](https://solved.ac/bruderlich/)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
